@@ -16,3 +16,4 @@
 
 # JetBrains / IntelliJ IDE files
 .idea/
+.DS_Store
